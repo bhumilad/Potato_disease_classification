@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+tensorflow-serving-api==2.13.0
+google-cloud-storage==1.44.0
+pillow==9.5.0
+typing-extensions==4.5.0
+exceptiongroup==1.2.0

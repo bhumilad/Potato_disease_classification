@@ -1,0 +1,14 @@
+tensorflow==2.13.0
+tensorflow-serving-api==2.13.0
+tensorflow-estimator==2.13.0
+typing-extensions>=3.6.6,<4.6.0
+absl-py>=1.0.0
+flatbuffers>=23.1.21
+numpy==1.24.3
+tensorboard==2.13.0
+
+fastapi
+uvicorn
+python-multipart
+pillow
+matplotlib
