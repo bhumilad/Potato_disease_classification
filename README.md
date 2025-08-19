@@ -118,26 +118,6 @@ npm run start
 
 ---
 
-## 📲 Running the Mobile App
-```bash
-cd mobile-app
-cp .env.example .env
-# Update API URL in `.env`
-
-# For Android
-yarn android
-
-# For iOS
-yarn ios
-```
-
----
-
-## 📦 Create Signed APK (Android)
-- Follow official React Native docs: [Building APK](https://reactnative.dev/docs/signed-apk-android)
-
----
-
 ## 📉 TF Lite Model Conversion
 ```bash
 jupyter notebook
